@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1877_Q/CPH1877EX_11_OTA_3450_all_5f9BMPLiOMuG.ozip
+  ROM_URL: https://www.realme.com/in/support/software-update#
   ROM_NAME: ColorOS
   TZ: Asia/Kolkata
   MIR: wet
