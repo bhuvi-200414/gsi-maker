@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.realme.com/in/support/software-update#
-  ROM_NAME: ColorOS
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8Oxygen_15_OTA_0110_all_2009081948_a2e9d3ab8c0642d4.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: ColorOS
+  ZIP_NAME: oxygenOS
 jobs:
   build:
     runs-on: ubuntu-latest
