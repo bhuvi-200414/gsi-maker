@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.21_OTA_021_all_2011052319_c7d44b2dcf46471e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://sourceforge.net/projects/shapeshiftos/files/latest/download
+  ROM_NAME: ShapeshiftOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: oxygenOS
+  ZIP_NAME: SSOS
 jobs:
   build:
     runs-on: ubuntu-latest
