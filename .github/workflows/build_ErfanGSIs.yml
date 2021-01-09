@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZB632KL/UL-ASUS_X01A-WW-17.2018.2004.31-user.zip
-  ROM_NAME: ASUS
+  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1877_Q/CPH1877EX_11_OTA_3450_all_5f9BMPLiOMuG.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: ASUS
+  ZIP_NAME: ColorOS
 jobs:
   build:
     runs-on: ubuntu-latest
