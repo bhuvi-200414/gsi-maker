@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V12.0.1.0.PEKMIXM_1920d51d84_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://drive.google.com/file/d/1U2I9dYiYAAd0j4FrQMczvN3diwuygZXZ/view?usp=sharing
+  ROM_NAME: HAVOC 3.11
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: Havoc3.11
 jobs:
   build:
     runs-on: ubuntu-latest
