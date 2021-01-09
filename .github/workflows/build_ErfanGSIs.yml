@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/file/d/1U2I9dYiYAAd0j4FrQMczvN3diwuygZXZ/view?usp=sharing
-  ROM_NAME: HAVOC 3.11
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZB632KL/UL-ASUS_X01A-WW-17.2018.2004.31-user.zip
+  ROM_NAME: ASUS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Havoc3.11
+  ZIP_NAME: ASUS
 jobs:
   build:
     runs-on: ubuntu-latest
