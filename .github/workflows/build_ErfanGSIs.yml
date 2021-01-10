@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/dotos-downloads/files/dotp/wayne/dotOS-P-v3.1.1-wayne-OFFICIAL-20190904-1757.zip/download
+  ROM_URL: https://downloads.sourceforge.net/project/nusantaraproject/beryllium/Nusantara_v2.5-11-beryllium-26122020-OFFICIAL-1403.zip?r=android-app%3A%2F%2Forg.telegram.messenger%2F&ts=1610287907&use_mirror=excellmedia
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
