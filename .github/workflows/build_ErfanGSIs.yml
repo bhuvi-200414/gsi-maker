@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/nusantaraproject/beryllium/Nusantara-EOL-beryllium-19122020-OFFICIAL-1305.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fnusantaraproject%2Ffiles%2Fberyllium%2F&ts=1610292367&use_mirror=nchc
-  ROM_NAME: Generic
+  ROM_URL: https://drive.google.com/u/0/uc?id=1jF3B5Wzh5i_WE5I2ZvOzohxmINRss47_&export=download
+  ROM_NAME: OneplusOS
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Generic
+  ZIP_NAME: oneplusos
 jobs:
   build:
     runs-on: ubuntu-latest
