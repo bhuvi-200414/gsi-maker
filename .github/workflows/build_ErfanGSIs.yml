@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.sourceforge.net/project/nusantaraproject/beryllium/Nusantara_v2.5-11-beryllium-26122020-OFFICIAL-1403.zip?r=android-app%3A%2F%2Forg.telegram.messenger%2F&ts=1610287907&use_mirror=excellmedia
+  ROM_URL: https://downloads.sourceforge.net/project/nusantaraproject/beryllium/Nusantara-EOL-beryllium-19122020-OFFICIAL-1305.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fnusantaraproject%2Ffiles%2Fberyllium%2F&ts=1610292367&use_mirror=nchc
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
