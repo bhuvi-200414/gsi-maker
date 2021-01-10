@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/21.1.6/miui_GINKGO_21.1.6_112338b429_11.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://sourceforge.net/projects/dotos-downloads/files/dotp/wayne/dotOS-P-v3.1.1-wayne-OFFICIAL-20190904-1757.zip/download
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: redminote8
+  ZIP_NAME: dotos
 jobs:
   build:
     runs-on: ubuntu-latest
