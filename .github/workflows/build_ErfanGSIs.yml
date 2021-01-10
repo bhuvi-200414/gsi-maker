@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?id=1jF3B5Wzh5i_WE5I2ZvOzohxmINRss47_&export=download
+  ROM_URL: https://downloads.sourceforge.net/project/guzram-ports/whyred/OxygenOS-Q/OnePlus6-Stable/A6003_OxygenOS10-10.3.5_20200808-1911_ANCIENT-PUBLIC_whyred.zip?r=https%3A%2F%2Fforum.xda-developers.com%2F&ts=1610295957&use_mirror=excellmedia
   ROM_NAME: OneplusOS
   TZ: Asia/Kolkata
   MIR: wet
