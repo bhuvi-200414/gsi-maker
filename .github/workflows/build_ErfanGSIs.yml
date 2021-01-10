@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=sObM&id=1aFVXekMIvao09_5EazaUSNIXH2HA2Y1Z 
-  ROM_NAME: Generic
+  ROM_URL: https://bigota.d.miui.com/V12.0.7.0.QJSMIXM/miui-blockota-gauguin_global-V12.0.6.0.QJSMIXM-V12.0.7.0.QJSMIXM-552c7c5168-10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: havocos
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
