@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/21.1.6/miui_CEZANNE_21.1.6_898dead3d2_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QJRINXM/miui_SHIVAINGlobal_V12.0.1.0.QJRINXM_324c4a3b9c_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: Pocom2
 jobs:
   build:
     runs-on: ubuntu-latest
